@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1&family=Roboto&display=swap');
+
+body {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'M PLUS 1', sans-serif;
+
+
+
+
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: palevioletred;
+}
+
+a:visited {
+    color:#13d4c4;
+}
+
+.test {
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'M PLUS 1', sans-serif;
+}
+
+.test {
+    text-align: center;
+}
+
+
+.ph1 {
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+
+.ph2 {
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+
+.ph3 {
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+
+.ph4 {
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+
+.ph5 {
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+
+.ph6 {
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
